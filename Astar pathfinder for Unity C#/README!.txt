@@ -1,0 +1,1 @@
+These are not all the scripts for the entire path finder project. The main Astar function is in the AstarRevised class. Just understand how it works and write your own!
