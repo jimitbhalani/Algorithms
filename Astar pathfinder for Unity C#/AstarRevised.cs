@@ -22,9 +22,9 @@ public class AstarRevised : MonoBehaviour
     private float rows;
     private float cols;
     private float yPos;
-	private float delay;
+    private float delay;
     private float currTime;
-	private bool isGenerated = true;
+    private bool isGenerated = true;
     private Node[,] Grid;
     private List<Node> path = new List<Node>();
     private Node playerGoalNode;
